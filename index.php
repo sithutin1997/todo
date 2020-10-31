@@ -30,6 +30,7 @@ require 'config.php';
                     </tr>
                 </thead>
                 <tbody>
+                    <?php 
                     <?php  
                     $i=1;
                         foreach ($result as  $value) {
